@@ -1,0 +1,29 @@
+a.nav-link {
+    color: white;
+}
+
+.container.danhmuctin {
+    margin-top: 71px;
+}
+
+nav.navbar.navbar-dark.bg-faded.navbar-fixed-top.menutren {
+    background-color: #00a3c7;
+}
+
+button#dropdownMenuButton {
+    border: none;
+    background: #00a3c7;
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: #00a3c7;
+}
+
+a.dropdown-item {
+    color: white;
+}
+
+.card-block {
+    background: #00c76dcc;
+}
